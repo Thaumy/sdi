@@ -4,6 +4,8 @@ version = "0.1.1"
 edition = "2021"
 description = "Rust statically resolved dependency injection lib"
 homepage = "https://github.com/Thaumy/sdi"
+repository = "https://github.com/Thaumy/sdi"
+keywords = ["di", "dependency injection"]
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
